@@ -1,0 +1,102 @@
+.stock-tile-gallery{
+    margin-left: -.6%;
+}
+.tile-gallery-block{
+    margin-left: .6%;
+    width: 24%;
+    float: left;
+    margin-bottom: 1%;
+    background-size: cover;
+    background-position: center center;
+}
+
+.stock-tile-gallery-image-1 .tile-gallery-block-1 {
+    width: 99%;
+}
+
+.stock-tile-gallery-image-2 .tile-gallery-block-1 {
+    width: 59%;
+}
+.stock-tile-gallery-image-2 .tile-gallery-block-2 {
+    width: 39%;
+}
+
+.stock-tile-gallery-image-3 .tile-gallery-block-1 {
+    width: 40%;
+}
+.stock-tile-gallery-image-3 .tile-gallery-block-2 {
+    width: 26%;
+}
+.stock-tile-gallery-image-3 .tile-gallery-block-3 {
+    width: 32%;
+}
+
+.stock-tile-gallery-image-5 .tile-gallery-block-1 {
+    width: 59%;
+}
+.stock-tile-gallery-image-5 .tile-gallery-block-2 {
+    width: 39%;
+}
+.stock-tile-gallery-image-5 .tile-gallery-block-3 {
+    width: 39%;
+}
+.stock-tile-gallery-image-5 .tile-gallery-block-4 {
+    width: 27%;
+}
+.stock-tile-gallery-image-5 .tile-gallery-block-5 {
+    width: 31%;
+}
+
+.stock-tile-gallery-image-6 .tile-gallery-block-1 {
+    width: 39%;
+}
+.stock-tile-gallery-image-6 .tile-gallery-block-2 {
+    width: 27%;
+}
+.stock-tile-gallery-image-6 .tile-gallery-block-3 {
+    width: 31%;
+}
+.stock-tile-gallery-image-6 .tile-gallery-block-4 {
+    width: 31%;
+}
+.stock-tile-gallery-image-6 .tile-gallery-block-5 {
+    width: 27%;
+}
+.stock-tile-gallery-image-6 .tile-gallery-block-6 {
+    width: 39%;
+}
+
+.stock-tile-gallery-image-7 .tile-gallery-block-1 {
+    width: 39%;
+}
+.stock-tile-gallery-image-7 .tile-gallery-block-2 {
+    width: 59%;
+}
+.stock-tile-gallery-image-7 .tile-gallery-block-3 {
+    width: 27%;
+}
+.stock-tile-gallery-image-7 .tile-gallery-block-4 {
+    width: 39%;
+}
+.stock-tile-gallery-image-7 .tile-gallery-block-5 {
+    width: 31%;
+}
+.stock-tile-gallery-image-7 .tile-gallery-block-6 {
+    width: 59%;
+}
+.stock-tile-gallery-image-7 .tile-gallery-block-7 {
+    width: 39%;
+}
+
+.stock-tile-gallery-image-8 .tile-gallery-block-1 {
+    width: 39%;
+}
+.stock-tile-gallery-image-8 .tile-gallery-block-2 {
+    width: 59%;
+}
+.stock-tile-gallery-image-8 .tile-gallery-block-7 {
+    width: 59%;
+}
+.stock-tile-gallery-image-8 .tile-gallery-block-8 {
+    width: 39%;
+}
